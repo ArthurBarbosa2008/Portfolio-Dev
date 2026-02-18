@@ -1,0 +1,36 @@
+/* Titulos */
+h1 {
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    color: white;
+}
+
+h2 {
+    font-family: "Merriweather", serif;
+    font-size: 30px;
+    color: white;
+    margin: 10px 0;
+}
+
+h3 {
+    font-family: "Merriweather", serif;
+    font-size: 20px;
+    color:#e7d995;
+    margin: 10px 0;
+}
+
+/* Menores */
+
+p {
+    color: white;
+    margin: 20px 0;
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+}
+
+span {
+    color:#e7d995;
+    font-weight: bold;
+}
