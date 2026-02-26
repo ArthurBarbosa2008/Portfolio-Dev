@@ -85,3 +85,21 @@ hr{
         opacity: 1;
     }
 }
+
+@keyframes menu-surgir {
+    0%{
+        right: -50dvw;
+    }
+    100%{
+        right: 0;
+    }
+}
+
+@keyframes menu-sumir {
+    0%{
+        right: 0;
+    }
+    100%{
+        right: -50dvw;
+    }
+}

@@ -30,3 +30,24 @@ header section nav ul li a{
 header section nav ul li a:hover{
     color:#e7d995
 }
+
+#mobile-menu {
+    cursor: pointer;
+    display: none;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 25px;
+    height: 25px;
+}
+
+.linha {
+    background-color: white;
+    width: 30px;
+    height: 2px;
+    transition: 0.3s;
+}
+
+#mobile-menu:hover .linha{
+    background-color: #e7d995;
+}
